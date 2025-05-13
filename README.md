@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Software Developer passionate about full-stack engineering and DevOps. I enjoy building scalable, secure systems using modern technologies and clean architectural practices. And I love collaborating on innovative projects and learning new technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaaaaackz&style=flat-square&color=blue)
 
 ---
 
@@ -29,11 +29,12 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about full-sta
 ## 🌟 Featured Projects
 Here are a few projects I'm proud of:
 
-- **[Project Name 1](link-to-repo)**: A brief description of what this project does and the technologies used.
-- **[Project Name 2](link-to-repo)**: A brief description of the project and its impact or purpose.
-- **[Project Name 3](link-to-repo)**: Another cool project with a short overview.
+- **[Vive Consulting Recruitment Platform](https://www.viveconsulting.com.au/#)**: A dual-portal platform for enterprise and applicant management, featuring resume parsing and AI-powered matching. Built with CakePHP MVC, PHP, JavaScript, MySQL, and HTML/CSS.
+- **[Booking Management System](https://verdant-begonia-87fe5d.netlify.app/)**: A dynamic scheduling and resource management system with real-time calendar integration. Developed using React, Django, MongoDB, and RESTful APIs.
+- **[To-do List Project](http://todo-project-jackz.s3-website-ap-southeast-2.amazonaws.com/)**: A modern task management application with intuitive drag-and-drop functionality for organizing tasks across Todo, Doing, and Done states. Features dynamic theme switching and visually engaging UI with Inspira UI effects. Built using Vue.js 3, Node.js, Express.js, SQLite, and deployed on AWS S3 and API Gateway.
 
-Check out more on my [Repositories](https://github.com/your-username?tab=repositories) tab!
+
+Check out more on my [Repositories](https://github.com/Jaaaaackz?tab=repositories) tab!
 
 ---
 
@@ -45,7 +46,6 @@ Check out more on my [Repositories](https://github.com/your-username?tab=reposit
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-profile) - Let's network!
-- [Twitter](https://twitter.com/your-handle) - Follow me for tech tweets.
-- [Personal Website/Portfolio](your-website-link) - More about my work.
+- [Personal Website/Portfolio](https://jaaaaackz.github.io/) - More about my work.
 
 Thanks for stopping by! Feel free to explore my repos and drop a star ⭐ if you like what you see.
