@@ -1,4 +1,4 @@
-# Hey there, I'm [Jack (PangFeng) Zheng]! 👋
+# Hey there, I'm Jack (PangFeng) Zheng! 👋
 
 Welcome to my GitHub profile! I'm a Software Developer passionate about full-stack engineering and DevOps. I enjoy building scalable, secure systems using modern technologies and clean architectural practices. And I love collaborating on innovative projects and learning new technologies.
 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a Software Developer passionate about full-sta
 | **Databases**                                   | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![DynamoDB Badge](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Tools & Platforms**                           | ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white) ![CI/CD Badge](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
+---
 
 ## 🌟 Featured Projects
 Here are a few projects I'm proud of:
@@ -39,11 +40,11 @@ Check out more on my [Repositories](https://github.com/Jaaaaackz?tab=repositorie
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Jaaaaackz&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaaaackz&theme=radical&layout=compact) |
 
 ---
-
+![BEPb's github activity graph](https://raw.githubusercontent.com/Jaaaaackz/Jaaaaackz/output/github-contribution-grid-snake-dark.svg)
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-profile) - Let's network!
 - [Personal Website/Portfolio](https://jaaaaackz.github.io/) - More about my work.
