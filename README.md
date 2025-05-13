@@ -1,12 +1,19 @@
-# Hey there, I'm Jack (PangFeng) Zheng! 👋
-
-Welcome to my GitHub profile! I'm a Software Developer passionate about full-stack engineering and DevOps. I enjoy building scalable, secure systems using modern technologies and clean architectural practices. And I love collaborating on innovative projects and learning new technologies.
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jaaaaackz&style=flat-square&color=blue)
+<p align="center">
+  <h2 align="center">Welcome, I'm Jack (PangFeng) Zheng! 👋</h2> 
+</p>
+<p align="center">
+    <a href="https://github.com/jaaaaackz/jaaaaackz"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/jaaaaackz/jaaaaackz/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/jaaaaackz/jaaaaackz/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/jaaaaackz/jaaaaackz/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jaaaaackz.jaaaaackz" alt="visitors"/>   
+</p>
 
 ---
 
 ## 🚀 About Me
+I'm a Software Developer passionate about full-stack engineering and DevOps. I enjoy building scalable, secure systems using modern technologies and clean architectural practices. And I love collaborating on innovative projects and learning new technologies.
 - 🌍 Based in Melbourne, Australia
 - 🌱 Learning Machine Learning, AWS Services
 - 📫 Reach me at jack.zpf.it@gmail.com
@@ -40,11 +47,9 @@ Check out more on my [Repositories](https://github.com/Jaaaaackz?tab=repositorie
 ---
 
 ## 📊 GitHub Stats
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Jaaaaackz&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaaaackz&theme=radical&layout=compact) |
 
----
-![BEPb's github activity graph](https://raw.githubusercontent.com/Jaaaaackz/Jaaaaackz/output/github-contribution-grid-snake-dark.svg)
+|![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Jaaaaackz&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaaaackz&theme=radical&layout=compact) |
+
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/your-profile) - Let's network!
 - [Personal Website/Portfolio](https://jaaaaackz.github.io/) - More about my work.
